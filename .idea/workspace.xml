@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f46854e2-3045-4ed7-a9b3-05b7d56d19d7" name="Changes" comment="hey hey hey">
+    <list default="true" id="f46854e2-3045-4ed7-a9b3-05b7d56d19d7" name="Changes" comment="added  test class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testpackge/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpackge/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642752085725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added  test class">
+      <created>1642753600095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753600095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added  test class">
+      <created>1642753624190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753624190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hghh" />
     <MESSAGE value="hey hey hey" />
-    <option name="LAST_COMMIT_MESSAGE" value="hey hey hey" />
+    <MESSAGE value="added  test class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added  test class" />
   </component>
 </project>
