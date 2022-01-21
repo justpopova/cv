@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f46854e2-3045-4ed7-a9b3-05b7d56d19d7" name="Changes" comment="" />
+    <list default="true" id="f46854e2-3045-4ed7-a9b3-05b7d56d19d7" name="Changes" comment="hey hey hey" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,21 @@
       <option name="presentableId" value="Default" />
       <updated>1636993732225</updated>
     </task>
+    <task id="LOCAL-00001" summary="hghh">
+      <created>1642751369929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642751369929</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hey hey hey">
+      <created>1642751773402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642751773402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -50,5 +65,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hghh" />
+    <MESSAGE value="hey hey hey" />
+    <option name="LAST_COMMIT_MESSAGE" value="hey hey hey" />
   </component>
 </project>
